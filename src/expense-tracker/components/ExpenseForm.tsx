@@ -47,7 +47,7 @@ const ExpenseForm = ({ addValue }: Props) => {
 			</div>
 			<div className="mb-3">
 				<label htmlFor="category" className="form-label">
-					Category
+					Categoryy
 				</label>
 				<select {...register("category")} className="form-select" id="category">
 					<option value=""></option>
